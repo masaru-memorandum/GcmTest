@@ -1,4 +1,6 @@
-package com.example.gcmtest;
+package com.masaru.gcmtest;
+
+import com.example.gcmtest.R;
 
 import android.app.Activity;
 import android.os.Bundle;
